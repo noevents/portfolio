@@ -1,8 +1,0 @@
-.sass-cache
-.DS_Store
-.vscode
-node_modules
-/css
-/js
-.publish
-npm-debug.log
